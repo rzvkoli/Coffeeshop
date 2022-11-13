@@ -11,33 +11,10 @@
 
 ## Some points about the project
 
-- **API Google - YouTube** is used in this project .
-- **Faker library** is used in this project Faker is a library that generates fake ( but reasonable ) data for you Mock data Data for testing development and the like .
-- **React-icons** is uses in this project .
-- **Bootstrap** is uses in this project .
-- The favicon has chaned in this project .
-![00](https://user-images.githubusercontent.com/100797809/188075232-bb772846-3c4f-442a-9024-d2e02ceaaea4.png)
-- In this project a font with two formats **ttf - woff** in this direction **public / fonts** used .
-- A font has been imported in this project .
+- **React router** is uses in this project .
+- **Material UI** and **Materialize**  is uses in this project to create components .
+- **React loadable** is uses in this project to perform loading before running pages .
 
-```CSS
-
-import url ('');
-
-```
-
-- In this direction **public/css** There is an **Style.css** file
-that fonts In this file and with **font-face** have been used .
-
-```Css
-
-font-face {
-    font-family : 'Roboto';
-    src : url('../fonts/youtube.woff') format('ttf'),
-    url('../fonts/youtube.woff') format('woff');
-}
-
-```
 
 ## Preview
 
