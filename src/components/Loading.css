@@ -1,0 +1,17 @@
+.loading{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.MuiCircularProgress-root{
+    width: 80px !important;
+    height: 80px !important;
+}
+.css-18lrjg1-MuiCircularProgress-root{
+    color: #f77f00 !important;
+    
+}
+

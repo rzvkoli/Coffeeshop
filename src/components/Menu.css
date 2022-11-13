@@ -1,0 +1,83 @@
+.menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 5vh;
+    position: fixed;
+    top: 0vh;
+    background-color: rgba(0,0,0,0.8);
+    width: 100%;
+    height: 12.5vh;
+    z-index: 2;
+}
+
+.btn-scroll{
+    background: none;
+    border: hidden;
+    padding: 0.5vh;
+    cursor: pointer;
+    transition: 0.75s;
+    color: #ffffff;
+    font-size: 4.5vh;
+    font-weight: 500;
+}
+
+.btn-scroll:hover{
+    color: #f77f00;
+    transition: 0.75s;
+}
+
+.btn-scroll:focus{
+    color: #f77f00;
+    background: none;
+}
+
+.menu-sections{
+    padding-top: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-title{
+    color: #000000;
+    font-size: 7.5vh;
+    font-weight: 500;
+    letter-spacing: 2.5px;
+}
+
+.title-section{
+    position: relative;
+    top: 1.5vh;
+    left: 5vh;
+    padding-top: 10vh;
+    color: #f77f00;
+    font-size: 4vh;
+    font-weight: 500;
+}
+
+.line{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 10vh;
+}
+
+.line-one{
+    border-top: solid 5px #f77f00;
+    width: 101vh;
+}
+
+.line-two{
+    border-top: solid 5px #ffffff;
+    width: 101vh;
+}

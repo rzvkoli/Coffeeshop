@@ -1,0 +1,11 @@
+.pizza{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: center;
+    gap: 1.5vh;
+    width: 170vh;
+    position: relative;
+    left: 5vh;
+}
