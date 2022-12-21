@@ -9,13 +9,6 @@
 - **Materialize**
 - **CSS**
 
-## Some points about the project
-
-- **React router** is uses in this project .
-- **Material UI** and **Materialize**  is uses in this project to create components .
-- **React loadable** is uses in this project to perform loading before running pages .
-
-
 ## Preview
 
 ### Desktop Mode
